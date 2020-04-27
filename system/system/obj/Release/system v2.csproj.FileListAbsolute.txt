@@ -31,3 +31,32 @@ F:\system\system\system\obj\Release\system v2.csproj.CopyComplete
 F:\system\system\system\obj\Release\system.exe
 F:\system\system\system\obj\Release\system.pdb
 F:\system\system\system\obj\Release\system v2.csprojAssemblyReference.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\system.exe
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\system.pdb
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\DiffieHellman.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Newtonsoft.Json.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Org.Mentalis.Security.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Renci.SshNet.Async.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Renci.SshNet.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Tamir.SharpSSH.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Newtonsoft.Json.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Qios.DevSuite.Components.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Renci.SshNet.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Release\Renci.SshNet.Async.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system v2.csprojAssemblyReference.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormAbout.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormChart.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormDialog.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormLogin.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormMain.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormOutPut.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormRunOption.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.FormSetting.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.Properties.Resources.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system v2.csproj.GenerateResource.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.exe.licenses
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system v2.csproj.CoreCompileInputs.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system v2.csproj.CopyComplete
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.exe
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Release\system.pdb

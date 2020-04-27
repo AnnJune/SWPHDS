@@ -190,7 +190,7 @@
             this.MinimumSize = new System.Drawing.Size(512, 333);
             this.Name = "FormLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "SWPHDS";
+            this.Text = "近震ps震相人工智能自动识别程序";
             this.Load += new System.EventHandler(this.FormLogin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

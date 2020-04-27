@@ -53,7 +53,6 @@ namespace system
         }
         private void FormMain_Load(object sender, EventArgs e)
         {
-            
             //加载起始页窗体
             FormRunOption formRunOption = new FormRunOption();
             formRunOption.Show(idockPanel);
@@ -578,7 +577,6 @@ namespace system
         {
 
         }
-
         private void ItemResult_ItemActivated(object sender, Qios.DevSuite.Components.QCompositeEventArgs e)
         {
             if (simbolCalculate == true)

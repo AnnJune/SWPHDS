@@ -33,7 +33,6 @@
             this.buttonDefault = new System.Windows.Forms.Button();
             this.groupBoxSetting = new System.Windows.Forms.GroupBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.qComboBoxOutputType = new Qios.DevSuite.Components.QComboBox();
             this.qComboBoxMultithreading = new Qios.DevSuite.Components.QComboBox();
             this.label5 = new System.Windows.Forms.Label();
             this.qTextBoxProbability = new Qios.DevSuite.Components.QTextBox();
@@ -45,6 +44,7 @@
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
             this.qTextBoxPfNum = new Qios.DevSuite.Components.QTextBox();
             this.qComboBoxPrintPicture = new Qios.DevSuite.Components.QComboBox();
+            this.qComboBoxOutputType = new Qios.DevSuite.Components.QComboBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.buttonChangeDocker = new System.Windows.Forms.Button();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
@@ -56,6 +56,8 @@
             this.LbInputPath = new System.Windows.Forms.Label();
             this.buttonChangeOutput = new System.Windows.Forms.Button();
             this.buttonChangeInput = new System.Windows.Forms.Button();
+            this.labelSystemName = new System.Windows.Forms.Label();
+            this.labelOrganization = new System.Windows.Forms.Label();
             this.groupBoxSetting.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
@@ -67,7 +69,7 @@
             // 
             this.buttonSave.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonSave.Location = new System.Drawing.Point(88, 241);
-            this.buttonSave.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonSave.Margin = new System.Windows.Forms.Padding(2);
             this.buttonSave.Name = "buttonSave";
             this.buttonSave.Size = new System.Drawing.Size(92, 27);
             this.buttonSave.TabIndex = 1;
@@ -79,7 +81,7 @@
             // 
             this.buttonDefault.Font = new System.Drawing.Font("微软雅黑", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonDefault.Location = new System.Drawing.Point(226, 241);
-            this.buttonDefault.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonDefault.Margin = new System.Windows.Forms.Padding(2);
             this.buttonDefault.Name = "buttonDefault";
             this.buttonDefault.Size = new System.Drawing.Size(92, 27);
             this.buttonDefault.TabIndex = 2;
@@ -116,7 +118,7 @@
             this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel3, 1, 4);
             this.tableLayoutPanel1.Controls.Add(this.qComboBoxOutputType, 1, 3);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(5, 19);
-            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(2);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 5;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
@@ -127,19 +129,6 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 16F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(399, 206);
             this.tableLayoutPanel1.TabIndex = 2;
-            // 
-            // qComboBoxOutputType
-            // 
-            this.qComboBoxOutputType.Dock = System.Windows.Forms.DockStyle.Left;
-            this.qComboBoxOutputType.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.qComboBoxOutputType.Items.AddRange(new object[] {
-            "csv",
-            "json",
-            "jopens"});
-            this.qComboBoxOutputType.Location = new System.Drawing.Point(101, 126);
-            this.qComboBoxOutputType.Name = "qComboBoxOutputType";
-            this.qComboBoxOutputType.Size = new System.Drawing.Size(277, 26);
-            this.qComboBoxOutputType.TabIndex = 26;
             // 
             // qComboBoxMultithreading
             // 
@@ -252,7 +241,7 @@
             this.tableLayoutPanel3.Controls.Add(this.qComboBoxPrintPicture, 0, 0);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel3.Location = new System.Drawing.Point(100, 166);
-            this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(2);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
@@ -284,6 +273,19 @@
             this.qComboBoxPrintPicture.TabIndex = 27;
             this.qComboBoxPrintPicture.TextChanged += new System.EventHandler(this.qComboBoxPrintPicture_TextChanged);
             // 
+            // qComboBoxOutputType
+            // 
+            this.qComboBoxOutputType.Dock = System.Windows.Forms.DockStyle.Left;
+            this.qComboBoxOutputType.Font = new System.Drawing.Font("微软雅黑", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.qComboBoxOutputType.Items.AddRange(new object[] {
+            "csv",
+            "json",
+            "jopens"});
+            this.qComboBoxOutputType.Location = new System.Drawing.Point(101, 126);
+            this.qComboBoxOutputType.Name = "qComboBoxOutputType";
+            this.qComboBoxOutputType.Size = new System.Drawing.Size(277, 26);
+            this.qComboBoxOutputType.TabIndex = 26;
+            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.buttonChangeDocker);
@@ -303,7 +305,7 @@
             this.buttonChangeDocker.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.buttonChangeDocker.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonChangeDocker.Location = new System.Drawing.Point(335, 106);
-            this.buttonChangeDocker.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonChangeDocker.Margin = new System.Windows.Forms.Padding(2);
             this.buttonChangeDocker.Name = "buttonChangeDocker";
             this.buttonChangeDocker.Size = new System.Drawing.Size(60, 26);
             this.buttonChangeDocker.TabIndex = 33;
@@ -323,7 +325,7 @@
             this.tableLayoutPanel2.Controls.Add(this.label7, 0, 1);
             this.tableLayoutPanel2.Controls.Add(this.LbInputPath, 1, 0);
             this.tableLayoutPanel2.Location = new System.Drawing.Point(5, 19);
-            this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(2);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 3;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
@@ -412,7 +414,7 @@
             this.buttonChangeOutput.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.buttonChangeOutput.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonChangeOutput.Location = new System.Drawing.Point(335, 65);
-            this.buttonChangeOutput.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonChangeOutput.Margin = new System.Windows.Forms.Padding(2);
             this.buttonChangeOutput.Name = "buttonChangeOutput";
             this.buttonChangeOutput.Size = new System.Drawing.Size(60, 26);
             this.buttonChangeOutput.TabIndex = 32;
@@ -425,7 +427,7 @@
             this.buttonChangeInput.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.buttonChangeInput.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.buttonChangeInput.Location = new System.Drawing.Point(335, 26);
-            this.buttonChangeInput.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonChangeInput.Margin = new System.Windows.Forms.Padding(2);
             this.buttonChangeInput.Name = "buttonChangeInput";
             this.buttonChangeInput.Size = new System.Drawing.Size(60, 26);
             this.buttonChangeInput.TabIndex = 31;
@@ -433,16 +435,39 @@
             this.buttonChangeInput.UseVisualStyleBackColor = true;
             this.buttonChangeInput.Click += new System.EventHandler(this.buttonChangeInput_Click);
             // 
+            // labelSystemName
+            // 
+            this.labelSystemName.AutoSize = true;
+            this.labelSystemName.Font = new System.Drawing.Font("华文中宋", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelSystemName.Location = new System.Drawing.Point(143, 361);
+            this.labelSystemName.Name = "labelSystemName";
+            this.labelSystemName.Size = new System.Drawing.Size(547, 40);
+            this.labelSystemName.TabIndex = 10;
+            this.labelSystemName.Text = "近震ps震相人工智能自动识别程序";
+            // 
+            // labelOrganization
+            // 
+            this.labelOrganization.AutoSize = true;
+            this.labelOrganization.Font = new System.Drawing.Font("华文中宋", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.labelOrganization.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.labelOrganization.Location = new System.Drawing.Point(127, 460);
+            this.labelOrganization.Name = "labelOrganization";
+            this.labelOrganization.Size = new System.Drawing.Size(572, 27);
+            this.labelOrganization.TabIndex = 11;
+            this.labelOrganization.Text = "中国地震局地球物理研究所基本业务费重点专项 资助";
+            // 
             // FormRunOption
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(844, 475);
+            this.ClientSize = new System.Drawing.Size(844, 555);
+            this.Controls.Add(this.labelOrganization);
+            this.Controls.Add(this.labelSystemName);
             this.Controls.Add(this.groupBoxSetting);
             this.Controls.Add(this.groupBox1);
             this.Font = new System.Drawing.Font("宋体", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FormRunOption";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Setting";
@@ -455,6 +480,7 @@
             this.tableLayoutPanel2.ResumeLayout(false);
             this.tableLayoutPanel2.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -486,5 +512,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         private Qios.DevSuite.Components.QTextBox qTextBoxPfNum;
+        private System.Windows.Forms.Label labelSystemName;
+        private System.Windows.Forms.Label labelOrganization;
     }
 }

@@ -89,3 +89,31 @@ F:\地震局论文\PhDebuger\system\system\obj\Debug\system v2.csproj.CoreCompil
 F:\地震局论文\PhDebuger\system\system\obj\Debug\system v2.csproj.CopyComplete
 F:\地震局论文\PhDebuger\system\system\obj\Debug\system.exe
 F:\地震局论文\PhDebuger\system\system\obj\Debug\system.pdb
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\system.exe
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\system.pdb
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\DiffieHellman.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Newtonsoft.Json.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Org.Mentalis.Security.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Renci.SshNet.Async.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Renci.SshNet.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Tamir.SharpSSH.dll
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Newtonsoft.Json.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Qios.DevSuite.Components.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Renci.SshNet.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\bin\Debug\Renci.SshNet.Async.xml
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system v2.csprojAssemblyReference.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.FormAbout.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.FormChart.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.FormDialog.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.FormLogin.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.FormMain.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.FormOutPut.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.FormRunOption.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.FormSetting.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.Properties.Resources.resources
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system v2.csproj.GenerateResource.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.exe.licenses
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system v2.csproj.CoreCompileInputs.cache
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system v2.csproj.CopyComplete
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.exe
+D:\Users\AnnJune\Documents\WeChat Files\MJH649578797\FileStorage\File\2020-04\PhDebuger\system\system\obj\Debug\system.pdb

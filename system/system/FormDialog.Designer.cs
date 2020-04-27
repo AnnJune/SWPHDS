@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormDialog));
             this.ButtonOpenFile = new System.Windows.Forms.Button();
             this.TextBoxDialog = new ComponentFactory.Krypton.Toolkit.KryptonRichTextBox();
             this.LabelDialog = new ComponentFactory.Krypton.Toolkit.KryptonLabel();
@@ -59,7 +60,7 @@
             this.LabelDialog.Location = new System.Drawing.Point(47, 117);
             this.LabelDialog.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.LabelDialog.Name = "LabelDialog";
-            this.LabelDialog.Size = new System.Drawing.Size(83, 21);
+            this.LabelDialog.Size = new System.Drawing.Size(77, 20);
             this.LabelDialog.TabIndex = 3;
             this.LabelDialog.Values.Text = "File selected";
             // 
@@ -72,6 +73,7 @@
             this.Controls.Add(this.TextBoxDialog);
             this.Controls.Add(this.ButtonOpenFile);
             this.Font = new System.Drawing.Font("宋体", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "FormDialog";
             this.RightToLeftLayout = true;

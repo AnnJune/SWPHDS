@@ -388,7 +388,7 @@
             this.MinimumSize = new System.Drawing.Size(900, 829);
             this.Name = "FormMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "SWPHDS";
+            this.Text = "近震ps震相人工智能自动识别程序";
             this.Load += new System.EventHandler(this.FormMain_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
